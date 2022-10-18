@@ -4,10 +4,10 @@ if(!defined('DB_SERVER')){
 }
 class DBConnection{
 
-    private $host = babvsavzfteskc1vxzzu-mysql.services.clever-cloud.com;
-    private $username = uwk72w4ytyml670b;
-    private $password = nCJxiwmBR5QwXwecnm78;
-    private $database = babvsavzfteskc1vxzzu;
+    private $host = "bhhfrot5fnuyytk5xhq6-mysql.services.clever-cloud.com";
+    private $username = "usc52f0tmhrafirw";
+    private $password = "6toWNLU7CnkKYvs2yG1v";
+    private $database = "bhhfrot5fnuyytk5xhq6";
     
     public $conn;
     
