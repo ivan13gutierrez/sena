@@ -6,5 +6,5 @@ if(!defined('base_app')) define('base_app', str_replace('\\','/',__DIR__).'/' );
 if(!defined('DB_SERVER')) define('DB_SERVER',"bhhfrot5fnuyytk5xhq6-mysql.services.clever-cloud.com");
 if(!defined('DB_USERNAME')) define('DB_USERNAME',"usc52f0tmhrafirw");
 if(!defined('DB_PASSWORD')) define('DB_PASSWORD',"6toWNLU7CnkKYvs2yG1v");
-if(!defined('DB_NAME')) define('DB_NAME',"cscs_db");
+if(!defined('DB_NAME')) define('DB_NAME',"bhhfrot5fnuyytk5xhq6");
 ?>
